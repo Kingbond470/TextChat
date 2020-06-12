@@ -7,7 +7,7 @@
     "devStart": "nodemon server.js",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Mausam Singh",
   "license": "ISC",
   "dependencies": {
     "socket.io": "^2.3.0"
